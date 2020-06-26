@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Something",
+    "description": "Nothing to see here just a dummy test."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Not a diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
